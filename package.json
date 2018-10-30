@@ -1,0 +1,11 @@
+{
+  "name": "tweeties",
+  "version": "1.0.0",
+  "description": "a mini twitter clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sivadass N",
+  "license": "MIT"
+}
