@@ -9,6 +9,12 @@ class Home extends Component {
     return (
       <div className="container">
         <h1>Welcome to Tweeties</h1>
+        <div>
+          <form>
+            <textarea placeholder="Enter your tweet here" />
+            <button type="submit">Twwet</button>
+          </form>
+        </div>
       </div>
     );
   }
