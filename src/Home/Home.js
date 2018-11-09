@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Button } from "react-bootstrap";
 
 class Home extends Component {
   login() {
@@ -12,7 +13,7 @@ class Home extends Component {
         <div>
           <form>
             <textarea placeholder="Enter your tweet here" />
-            <button type="submit">Twwet</button>
+            <Button bsStyle="primary">Tweet</Button>
           </form>
         </div>
       </div>
