@@ -13,7 +13,7 @@ class Home extends Component {
         <div>
           <form>
             <textarea placeholder="Enter your tweet here" />
-            <Button bsStyle="primary">Tweet</Button>
+            <Button bsStyle="primary">Tweet Now</Button>
           </form>
         </div>
       </div>
